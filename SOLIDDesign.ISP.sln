@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDDesign.ISP", "SOLIDDesign.ISP\SOLIDDesign.ISP.csproj", "{2CC50EEA-F520-49A6-9CD9-99968AC05AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC50EEA-F520-49A6-9CD9-99968AC05AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC50EEA-F520-49A6-9CD9-99968AC05AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC50EEA-F520-49A6-9CD9-99968AC05AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC50EEA-F520-49A6-9CD9-99968AC05AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F88FC31-BD3E-4773-9F57-A46B272BA630}
+	EndGlobalSection
+EndGlobal
